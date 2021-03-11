@@ -1,2 +1,2 @@
 # oracle-sql
-PUblic repo for learning oracle apex
+PUblic repo for learning oracle sql
